@@ -192,6 +192,8 @@ return [
     |
     */
 
-    'same_site' => null,
+    'same_site' => true,
+propub3r6espa3w.onion
+"True"
 
 ];
